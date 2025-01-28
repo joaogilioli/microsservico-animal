@@ -1,0 +1,14 @@
+package com.veterinaria.microsservicos.autenticacao.domain.medico;
+
+public enum Especialidade {
+
+    CLINICA_GERAL,
+    CIRURGIA_VETERINARIA,
+    ANESTESIOLOGIA_VETERINARIA,
+    DERMATOLOGIA_VETERINARIA,
+    CARDIOLOGIA_VETERINARIA,
+    OFTALMOLOGIA_VETERINARIA,
+    ORTOPEDIA_VETERINARIA,
+    ONCOLOGIA_VETERINARIA;
+
+}
